@@ -216,6 +216,7 @@
 
 .mdl-selectfield__label {
   bottom: 0;
+  top: 4px;
   color: rgba(0,0,0, 0.26);
   font-size: 16px;
   pointer-events: none;

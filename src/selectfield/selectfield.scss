@@ -80,6 +80,7 @@ $selectfield-error-color: unquote("rgb(222, 50, 38)") !default;
 // Styling for the label / floating label.
 .mdl-selectfield__label {
   bottom: 0;
+  top: $selectfield-padding;
   color: $selectfield-label-color;
   font-size: $selectfield-font-size;
   pointer-events: none;
